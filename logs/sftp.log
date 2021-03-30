@@ -1,0 +1,47 @@
+Mar 30 10:14:51 10.71.56.0 tmp36192229-3266 Connection from 10.71.56.0 port 62522 on 82.165.86.223 port 22
+Mar 30 10:14:51 10.71.56.0 tmp36192229-3266 Accepted password for tmp36192229-3266 from 10.71.56.0 port 62522 ssh2
+Mar 30 10:14:51 10.71.56.0 tmp36192229-3266 Starting session: subsystem 'sftp' for tmp36192229-3266 from 10.71.56.0 port 62522 id 0
+Mar 30 10:14:51 10.71.56.0 tmp36192229-3266 session opened for local user tmp36192229-3266 from [10.71.56.0]
+Mar 30 10:15:24 10.71.56.0 tmp36192229-8574 Connection from 10.71.56.0 port 49682 on 82.165.86.223 port 22
+Mar 30 10:15:25 10.71.56.0 tmp36192229-8574 Accepted password for tmp36192229-8574 from 10.71.56.0 port 49682 ssh2
+Mar 30 10:15:25 10.71.56.0 tmp36192229-3266 open "/logs/access.log.05.gz" flags READ mode 0666
+Mar 30 10:15:25 10.71.56.0 tmp36192229-3266 close "/logs/access.log.05.gz" bytes read 9822 written 0
+Mar 30 10:15:25 10.71.56.0 tmp36192229-3266 [10.71.56.0|get|0|9822|0|0|0|2f6c6f67732f6163636573732e6c6f672e30352e677a|]
+Mar 30 10:17:33 10.71.56.0 tmp36192229-3266 open "/F\357\277\275r M\357\277\275dchen ab 9 Jahren und junge Frauen.doc" flags READ mode 0666
+Mar 30 10:17:33 10.71.56.0 tmp36192229-3266 sent status No such file
+Mar 30 10:17:33 10.71.56.0 tmp36192229-3266 session closed for local user tmp36192229-3266 from [10.71.56.0]
+Mar 30 10:17:33 10.71.56.0 tmp36192229-3266 Connection closed by 10.71.56.0 port 62522
+Mar 30 10:17:36 10.71.56.0 tmp36192229-7176 Connection from 10.71.56.0 port 54222 on 82.165.86.223 port 22
+Mar 30 10:17:36 10.71.56.0 tmp36192229-7176 Accepted password for tmp36192229-7176 from 10.71.56.0 port 54222 ssh2
+Mar 30 10:17:36 10.71.56.0 tmp36192229-7176 Starting session: subsystem 'sftp' for tmp36192229-7176 from 10.71.56.0 port 54222 id 0
+Mar 30 10:17:36 10.71.56.0 tmp36192229-7176 session opened for local user tmp36192229-7176 from [10.71.56.0]
+Mar 30 10:17:36 10.71.56.0 tmp36192229-7176 open "/F\357\277\275r M\357\277\275dchen ab 9 Jahren und junge Frauen.doc" flags READ mode 0666
+Mar 30 10:17:36 10.71.56.0 tmp36192229-7176 sent status No such file
+Mar 30 10:17:36 10.71.56.0 tmp36192229-7176 session closed for local user tmp36192229-7176 from [10.71.56.0]
+Mar 30 10:17:36 10.71.56.0 tmp36192229-7176 Connection closed by 10.71.56.0 port 54222
+Mar 30 10:17:43 10.71.56.0 tmp36192229-8594 Connection from 10.71.56.0 port 64246 on 82.165.86.223 port 22
+Mar 30 10:17:44 10.71.56.0 tmp36192229-8594 Accepted password for tmp36192229-8594 from 10.71.56.0 port 64246 ssh2
+Mar 30 10:17:44 10.71.56.0 tmp36192229-8594 Starting session: subsystem 'sftp' for tmp36192229-8594 from 10.71.56.0 port 64246 id 0
+Mar 30 10:17:44 10.71.56.0 tmp36192229-8594 session opened for local user tmp36192229-8594 from [10.71.56.0]
+Mar 30 10:17:54 10.71.56.0 tmp36192229-8594 open "/F\357\277\275r M\357\277\275dchen ab 9 Jahren und junge Frauen.doc" flags READ mode 0666
+Mar 30 10:17:54 10.71.56.0 tmp36192229-8594 sent status No such file
+Mar 30 10:17:54 10.71.56.0 tmp36192229-8594 session closed for local user tmp36192229-8594 from [10.71.56.0]
+Mar 30 10:17:54 10.71.56.0 tmp36192229-8594 Connection closed by 10.71.56.0 port 64246
+Mar 30 10:17:56 10.71.56.0 tmp36192229-6899 Connection from 10.71.56.0 port 24630 on 82.165.86.223 port 22
+Mar 30 10:17:56 10.71.56.0 tmp36192229-6899 Accepted password for tmp36192229-6899 from 10.71.56.0 port 24630 ssh2
+Mar 30 10:17:57 10.71.56.0 tmp36192229-6899 Starting session: subsystem 'sftp' for tmp36192229-6899 from 10.71.56.0 port 24630 id 0
+Mar 30 10:17:57 10.71.56.0 tmp36192229-6899 session opened for local user tmp36192229-6899 from [10.71.56.0]
+Mar 30 10:17:57 10.71.56.0 tmp36192229-6899 open "/F\357\277\275r M\357\277\275dchen ab 9 Jahren und junge Frauen.doc" flags READ mode 0666
+Mar 30 10:17:57 10.71.56.0 tmp36192229-6899 sent status No such file
+Mar 30 10:17:57 10.71.56.0 tmp36192229-6899 session closed for local user tmp36192229-6899 from [10.71.56.0]
+Mar 30 10:17:57 10.71.56.0 tmp36192229-6899 Connection closed by 10.71.56.0 port 24630
+Mar 30 10:18:09 10.71.56.0 tmp36192229-7944 Connection from 10.71.56.0 port 42802 on 82.165.86.223 port 22
+Mar 30 10:18:10 10.71.56.0 tmp36192229-7944 Accepted password for tmp36192229-7944 from 10.71.56.0 port 42802 ssh2
+Mar 30 10:18:10 10.71.56.0 tmp36192229-7944 Starting session: subsystem 'sftp' for tmp36192229-7944 from 10.71.56.0 port 42802 id 0
+Mar 30 10:18:10 10.71.56.0 tmp36192229-7944 session opened for local user tmp36192229-7944 from [10.71.56.0]
+Mar 30 10:18:22 10.71.56.0 tmp36192229-7944 open "/.zip" flags READ mode 0666
+Mar 30 10:18:22 10.71.56.0 tmp36192229-7944 close "/.zip" bytes read 7115213 written 0
+Mar 30 10:18:22 10.71.56.0 tmp36192229-7944 [10.71.56.0|get|0|7115213|0|0|0|2f2e7a6970|]
+Mar 30 10:20:07 10.71.56.0 tmp36192229-7944 open "/dora_website.zip" flags READ mode 0666
+Mar 30 10:20:07 10.71.56.0 tmp36192229-7944 close "/dora_website.zip" bytes read 12024 written 0
+Mar 30 10:20:07 10.71.56.0 tmp36192229-7944 [10.71.56.0|get|0|12024|0|0|0|2f646f72615f776562736974652e7a6970|]
